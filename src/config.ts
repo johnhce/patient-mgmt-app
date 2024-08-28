@@ -1,0 +1,11 @@
+export const CLINET_ID = "cdbff829-50e8-4dca-a3dc-bfd4b231a132"
+//429 export const FHIR_BASE_URL = "https://hapi.fhir.org/baseR4"
+//bootcamp-server export const FHIR_BASE_URL = "https://fhir-bootcamp.medblocks.com/fhir"
+export const FHIR_BASE_URL = "https://demo.kodjin.com/fhir"
+//export const FHIR_BASE_URL = "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/R4"
+export const SMART_AUTH_URL = "https://fhir.epic.com/interconnect-fhir-oauth/oauth2/authorize"
+export const SMART_TOKEN_URL = "https://fhir.epic.com/interconnect-fhir-oauth/oauth2/token"
+export const REDIRECT_URL = 'http://localhost:5173'
+export const CODE_VERIFIER_LOCAL_STORAGE_KEY = 'smart_code_verifier'
+export const TOKEN_RESPONSE_LOCAL_STORAGE_KEY = 'smart_token_response'
+export const APP_TITLE = "GoodHealth EHR"

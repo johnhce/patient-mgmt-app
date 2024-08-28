@@ -1,0 +1,1 @@
+export { default as Modal2 } from "$lib/Modal2/Modal2.svelte";
